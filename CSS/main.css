@@ -1,0 +1,65 @@
+.main-avatar{
+    text-align: center;
+    background-color:#B6FFFA ;
+    color:#EB5B00;
+    font-size: medium;
+    font-family:'Times New Roman', Times, serif;
+     padding:5px;
+     border-style: solid;
+     border-radius: 12px;
+     margin:2px;
+}
+.avatar img{
+    text-align: center;
+    width:100px;
+    border-radius: 100%;
+    border-style: solid;
+}
+.information{
+    padding: 5px;
+    font-family:'Times New Roman', Times, serif;
+    font-size: large;
+    color:#240750;
+    background-color:#98E4FF;
+    border-style: solid;
+    border-radius: 12px;
+    margin:2px;
+}
+.informations{
+     padding: 5px;;
+    font-family:'Times New Roman', Times, serif;
+    font-size: large;
+    color:#240750;
+    background-color:#80B3FF;
+    border-style: solid;
+    border-radius: 12px;
+    margin:2px;
+}
+.main-information{
+    color:#121481;
+    background-color: #19A7CE;
+    padding: 5px;
+    font-family:'Times New Roman', Times, serif;
+    font-size: large;
+    border-style: solid;
+    border-radius: 12px;
+    margin:2px;
+    
+}
+.end{
+    text-align: center;
+    color:#EF5A6F;
+    background-color: darkblue;
+}
+body{
+    border-style: solid;
+}
+@media (max-width: 480px) {
+    body {
+        font-size: 14px; 
+    }
+
+    button {
+        padding: 8px; 
+    }
+}
